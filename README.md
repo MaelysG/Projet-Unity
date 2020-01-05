@@ -6,8 +6,11 @@ Description du jeu :
 	
 Developpement :
 	Tutoriels suivis : 
+	
 		https://www.youtube.com/watch?v=bSG5m0Q6W4c : gameOver Screen
+		
 		https://youtu.be/5KwkfGfaRNU : gestion de la vie du joueur
+		
 		https://youtu.be/l11fkFoFfrg : barre de vie du boss
 
 	La partie la plus importante et difficile d'un Bullet Hell est la créations des patterns de tir des ennemis. 
