@@ -1,0 +1,1207 @@
+fileFormatVersion: 2
+guid: b4b9f004682d88140b81ee1d35d37293
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4667521377727444989
+    second: Snow
+  - first:
+      213: 3838318795275561306
+    second: Menu
+  - first:
+      213: -6752796568481775506
+    second: Sakura
+  - first:
+      213: -2516684815595071745
+    second: Leaf
+  - first:
+      213: 1338874460256256461
+    second: Reimu_1
+  - first:
+      213: -1131576681008145888
+    second: Reimu_2
+  - first:
+      213: -4679629360715545439
+    second: Reimu_3
+  - first:
+      213: -641881354450916193
+    second: Cirno_1
+  - first:
+      213: 383986478549704903
+    second: Cirno_2
+  - first:
+      213: 3895597017722789874
+    second: Kaguya_1
+  - first:
+      213: 4773600122041589604
+    second: Kaguya_2
+  - first:
+      213: 7347307172926079318
+    second: Mokou_1
+  - first:
+      213: 7250920703935000169
+    second: Mokou_2
+  - first:
+      213: 110302039644947851
+    second: Hearts 3
+  - first:
+      213: -5947096594859156022
+    second: Hearts 2.5
+  - first:
+      213: -6292020552270421893
+    second: Hearts 2
+  - first:
+      213: 467480684276975710
+    second: Hearts 1.5
+  - first:
+      213: -7837851855085103868
+    second: Hearts 1
+  - first:
+      213: 8167933479965607788
+    second: Hearts 0.5
+  - first:
+      213: 1395799250136367729
+    second: Hearts 0
+  - first:
+      213: -8502188156620399341
+    second: Shot_1
+  - first:
+      213: -3450133095002218573
+    second: Shot_2
+  - first:
+      213: -2599650172704059646
+    second: Simple Shot 1
+  - first:
+      213: -4882144032882329781
+    second: Simple Shot 2
+  - first:
+      213: 8581256903809992731
+    second: CirnoShot1
+  - first:
+      213: 4773600122041589604
+    second: CirnoShot2
+  - first:
+      213: -4211419668814588736
+    second: CirnoShot3
+  - first:
+      213: -4789670105439411607
+    second: CirnoShot4
+  - first:
+      213: -9184600588068957517
+    second: CirnoShot5
+  - first:
+      213: -1255302162657842047
+    second: CirnoShot6
+  - first:
+      213: -7210565078852000859
+    second: KaguyaShot1
+  - first:
+      213: -565873001142266873
+    second: KaguyaShot2
+  - first:
+      213: -3142367965253475645
+    second: KaguyaShot3
+  - first:
+      213: -2909445755391026745
+    second: KaguyaShot4
+  - first:
+      213: -6414016716541118335
+    second: KaguyaShot5
+  - first:
+      213: -7095957414053595821
+    second: KaguyaShot6
+  - first:
+      213: -4676296211127603728
+    second: MokouShot6
+  - first:
+      213: -1770352063796451654
+    second: MokouShot5
+  - first:
+      213: 7584448580994766758
+    second: MokouShot4
+  - first:
+      213: 6018285518511727143
+    second: MokouShot3
+  - first:
+      213: 7018877553356016312
+    second: MokouShot1
+  - first:
+      213: -8815005599658941734
+    second: MokouShot2
+  - first:
+      213: -2300218381819193760
+    second: PV_Bonus
+  - first:
+      213: -5998456836751348979
+    second: White
+  - first:
+      213: -8067823486071617807
+    second: BossBar1
+  - first:
+      213: 5303157001448386517
+    second: BossBar2
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Snow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 288
+        height: 511
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c498263e2ea6ac46b9a79b6560f8751
+      internalID: 4667521377727444989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 288
+        height: 511
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210335b3bf7381b44a49136c8111af63
+      internalID: 3838318795275561306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakura
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 513
+        width: 288
+        height: 511
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3859a90f6f539904692480b09c60970e
+      internalID: -6752796568481775506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 513
+        width: 288
+        height: 511
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49070a4355ea4a47b48d0d2c7ca6273
+      internalID: -2516684815595071745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimu_1
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 546
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78426d199188d924380b21c58a10219d
+      internalID: 1338874460256256461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimu_2
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 546
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df30a0e4e796d340a41d805799629d4
+      internalID: -1131576681008145888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimu_3
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 546
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33328d226c4eda4eb8d9fc079df371e
+      internalID: -4679629360715545439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cirno_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 451
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65e7f81b00003b4e869049f40397d91
+      internalID: -641881354450916193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cirno_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 451
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc799143fcaeb24a99554bd1d0e36c2
+      internalID: 383986478549704903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaguya_1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 385
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7ffd0f1d7600743b21a105a1725c25
+      internalID: 3895597017722789874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaguya_2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 385
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4e31e4a69b8c0469118251e7e2bdc1
+      internalID: 4773600122041589604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mokou_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 312
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3984f72f6c2459646858b526fe470024
+      internalID: 7347307172926079318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mokou_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 312
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb4ccd9b7a9f1b4aa5a453306ed4329
+      internalID: 7250920703935000169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts 3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 291
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5557e08ee48744b887c36b5a621890
+      internalID: 110302039644947851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts 2.5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 277
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdda6d43bf3526140b4f6ec6654ba56b
+      internalID: -5947096594859156022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts 2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 263
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e3e5fc205e6984998230460132674a
+      internalID: -6292020552270421893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts 1.5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 249
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a681f96101010844ba6a0334d21f4838
+      internalID: 467480684276975710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts 1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 235
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf86a5fe35995e8488409180775e21e3
+      internalID: -7837851855085103868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts 0.5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 221
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea134807899c7cb44bf0231a75a86b7a
+      internalID: 8167933479965607788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts 0
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 207
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308ac76768771934aac8c4a6ac445745
+      internalID: 1395799250136367729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_1
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 611
+        width: 10
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7971601c51224d54aa231af66c3dd05d
+      internalID: -8502188156620399341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shot_2
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 611
+        width: 10
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a910c0bbba86042a08c299865dd3ea
+      internalID: -3450133095002218573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Shot 1
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 666
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4700654505f39b64cb565fcb91773326
+      internalID: -2599650172704059646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Shot 2
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 666
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2795454b3abf5b94eabeb1c189ce2b87
+      internalID: -4882144032882329781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirnoShot1
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 936
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fa7ce49cb6eae45b50618c4401aa11
+      internalID: 8581256903809992731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirnoShot2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 923
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb003c4190657bc4cab1a04909ddba6b
+      internalID: 4773600122041589604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirnoShot3
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 909
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1d3db87b7f6ce45b7486efce936ea6
+      internalID: -4211419668814588736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirnoShot4
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 892
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8aae78d46f1d14bb512a1efbb3ef9e
+      internalID: -4789670105439411607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirnoShot5
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 865
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cd67f676ff71a4bbae1ff4b19ce2ef
+      internalID: -9184600588068957517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirnoShot6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 611
+        width: 12
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67346703d036fea4bbe19627b2507b72
+      internalID: -1255302162657842047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaguyaShot1
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 936
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3da2f321f2c6f4abd200a72bb9a7a4
+      internalID: -7210565078852000859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaguyaShot2
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 923
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edca40747d77a6c4dbdb1f02ff99d2e5
+      internalID: -565873001142266873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaguyaShot3
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 909
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b04021216a8d94bb92361ee4b0d44a
+      internalID: -3142367965253475645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaguyaShot4
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 892
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cdb795c5179154db3aef0df57ee6dd
+      internalID: -2909445755391026745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaguyaShot5
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 865
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb46248d5912001498c6cdce09edd09f
+      internalID: -6414016716541118335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KaguyaShot6
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 611
+        width: 12
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407caa19bc15c5e4db1c8de5f9bb6457
+      internalID: -7095957414053595821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MokouShot6
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 611
+        width: 12
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9221ef565d36b54d93b35b2d6934fd3
+      internalID: -4676296211127603728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MokouShot5
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 865
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491d7055b764d784787bb02df6ff6265
+      internalID: -1770352063796451654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MokouShot4
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 892
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ceed2a4854a764cadaf4e0a70ee291
+      internalID: 7584448580994766758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MokouShot3
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 909
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2ac9f2ec6832644b5a8eab1766331f
+      internalID: 6018285518511727143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MokouShot1
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 936
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e511d069a76ed94f80f99df2227bc35
+      internalID: 7018877553356016312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MokouShot2
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 923
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78afd4a87fb7003479b5b190193548f6
+      internalID: -8815005599658941734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PV_Bonus
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 683
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7275237196e889d448e8d40fc5163a38
+      internalID: -2300218381819193760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 148
+        width: 86
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd85a2d7be9274a46b8a84d59c141238
+      internalID: -5998456836751348979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossBar1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 294
+        width: 89
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e92af2e64926440ba7d02145fc5d05
+      internalID: -8067823486071617807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossBar2
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 278
+        width: 89
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38914aadd6557c048a8749f90ce46720
+      internalID: 5303157001448386517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
