@@ -1,8 +1,9 @@
 # Projet-Unity
 
 Description du jeu :
-	Jeu de type Bullet Hell dont le but est d'éviter les projectiles des boss tout en leurs faisant des dégats avec les nôtres.
-	Le jeu est composé de trois niveaux. Il est possible de choisir le niveau que l'on souhaite faire ou bien essayer d'enchainer les trois niveaux.
+
+Jeu de type Bullet Hell dont le but est d'éviter les projectiles des boss tout en leurs faisant des dégats avec les nôtres.
+Le jeu est composé de trois niveaux. Il est possible de choisir le niveau que l'on souhaite faire ou bien essayer d'enchainer les trois niveaux.
 	
 Developpement :
 
