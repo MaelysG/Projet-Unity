@@ -21,6 +21,11 @@ Enfin l'affichage de la gestion de la vie du joueur ainsi que l'affichage des me
 	
 Tester sur Samsung A6.
 
+Améliorations manquante :
+
+Ajout d'un menu pause.
+Possibilité de mettre un score suivant les projectiles qui atteignent le boss et ceux que le joueur reçoit.
+
 Sources:
 	Les personnages et musiques appartiennent à ZUN (Jun'ya Ōta).
 	
