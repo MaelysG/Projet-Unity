@@ -417,8 +417,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentHealth: 0
   maxHealth: 200
-  bossDiedUI: {fileID: 0}
-  gameCompletedUI: {fileID: 0}
+  bossDiedUI: {fileID: 1060859615}
+  gameCompletedUI: {fileID: 1060859614}
 --- !u!114 &223160872
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -814,7 +814,7 @@ PrefabInstance:
     - target: {fileID: 8082216669686326353, guid: 19a73a769cbebb24e869e34f98ebc21b,
         type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 9185249902646941071, guid: 19a73a769cbebb24e869e34f98ebc21b,
         type: 3}
@@ -841,6 +841,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1060859614 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6558617184061003540, guid: 19a73a769cbebb24e869e34f98ebc21b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1060859611}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1060859615 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7079732935619297204, guid: 19a73a769cbebb24e869e34f98ebc21b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1060859611}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1704642636
 GameObject:
   m_ObjectHideFlags: 0

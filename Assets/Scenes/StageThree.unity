@@ -120,6 +120,12 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &72003061 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6558617184061003540, guid: 19a73a769cbebb24e869e34f98ebc21b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1331238368}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &104315928
 GameObject:
   m_ObjectHideFlags: 0
@@ -269,6 +275,12 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &339655188 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7079732935619297204, guid: 19a73a769cbebb24e869e34f98ebc21b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1331238368}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1125553351
 GameObject:
   m_ObjectHideFlags: 0
@@ -1188,8 +1200,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentHealth: 0
   maxHealth: 200
-  bossDiedUI: {fileID: 0}
-  gameCompletedUI: {fileID: 0}
+  bossDiedUI: {fileID: 339655188}
+  gameCompletedUI: {fileID: 72003061}
 --- !u!114 &1616689555
 MonoBehaviour:
   m_ObjectHideFlags: 0
